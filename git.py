@@ -1,4 +1,7 @@
 print("rasul safarov")
 print("galatasaray")
 print ("real madrid")
-second_branch test apply
+
+def fullname (n,s):
+    x=f"{n}-{s}"
+    return x
